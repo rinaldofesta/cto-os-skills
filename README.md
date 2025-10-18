@@ -84,10 +84,10 @@ Now we'll add the **Architecture Decision Skill** (repeat these steps for each s
 
 4. **Select this folder**: `cto-architecture-decision-skill`
 
-   - Don't open it, just select the folder itself
+   - Don't open it, just select the folder itself (it is advice to compress the skill folder in .zip)
    - The folder should have a `SKILL.md` file inside (you don't need to open it)
 
-5. Click **"Open"** or **"Select Folder"** or **"Add"**
+5. Click **"Open"** or **"Select Folder"**(it is advice to compress the skill folder in .zip) or **"Add"**
 
 6. ✅ You should see "cto-architecture-decision" appear in your skills list!
 
